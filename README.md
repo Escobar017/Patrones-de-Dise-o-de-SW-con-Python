@@ -24,7 +24,7 @@ Comportamiento - Se centran en la comunicación entre diferentes objetos en un s
 
 Los Patrones de diseño, son tecnicas que de programación que se centran en resolver problemas recurrentes a nivel de implementación,y diseño de software
 
-Los patrones de diseño, en general son aplicables in impñortar la arquitectura de software que se este usando.
+Los patrones de diseño, en general son aplicables sin importar la arquitectura de software que se este usando.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -75,6 +75,7 @@ Es decir:
 
 la clase = el molde
 el objeto = el elemento creado a partir de ese molde
+
 Ejemplo:
 
 Si la clase es Auto, entonces los objetos pueden ser:
